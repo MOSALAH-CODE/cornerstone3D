@@ -1,0 +1,1 @@
+{"version":3,"file":"CanvasMapper.d.ts","sourceRoot":"","sources":["../../../../src/RenderingEngine/CanvasActor/CanvasMapper.ts"],"names":[],"mappings":"AAAA,OAAO,WAAW,MAAM,GAAG,CAAC;AAM5B,MAAM,CAAC,OAAO,OAAO,YAAY;IAC/B,OAAO,CAAC,KAAK,CAAc;gBAEf,KAAK,EAAE,WAAW;IAI9B,YAAY;CAGb"}

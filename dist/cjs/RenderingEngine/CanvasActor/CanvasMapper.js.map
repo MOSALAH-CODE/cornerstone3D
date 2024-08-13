@@ -1,0 +1,1 @@
+{"version":3,"file":"CanvasMapper.js","sourceRoot":"","sources":["../../../../src/RenderingEngine/CanvasActor/CanvasMapper.ts"],"names":[],"mappings":";;AAMA,MAAqB,YAAY;IAG/B,YAAY,KAAkB;QAC5B,IAAI,CAAC,KAAK,GAAG,KAAK,CAAC;IACrB,CAAC;IAED,YAAY;QACV,OAAO,IAAI,CAAC,KAAK,CAAC,QAAQ,EAAE,CAAC;IAC/B,CAAC;CACF;AAVD,+BAUC"}
